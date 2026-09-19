@@ -1,0 +1,13 @@
+location_id,city,state,latitude,longitude,location_type,population_density
+1,Delhi,Delhi,28.6139,77.209,Office District,11320
+2,Mumbai,Maharashtra,19.076,72.8777,Shopping Mall,21000
+3,Bengaluru,Karnataka,12.9716,77.5946,Office District,11000
+4,Hyderabad,Telangana,17.385,78.4867,Residential,18500
+5,Pune,Maharashtra,18.5204,73.8567,Office District,16000
+6,Chennai,Tamil Nadu,13.0827,80.2707,Shopping Mall,17000
+7,Kolkata,West Bengal,22.5726,88.3639,Residential,24000
+8,Ahmedabad,Gujarat,23.0225,72.5714,Highway,12000
+9,Jaipur,Rajasthan,26.9124,75.7873,Highway,9000
+10,Indore,Madhya Pradesh,22.7196,75.8577,Public Parking,8500
+11,Bhopal,Madhya Pradesh,23.2599,77.4126,Residential,7000
+12,Surat,Gujarat,21.1702,72.8311,Shopping Mall,13500
